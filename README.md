@@ -15,7 +15,7 @@ The SDK requires an API key to authenticate with the LuxIQ API:
 ```bash
 # LuxIQ API Configuration
 LUXIQ_API_KEY=your_api_key
-# Optional: Custom API URL (defaults to https://luxiq-api.vercel.app)
+# Optional: Custom API URL (defaults to https://api.luxiq.app)
 LUXIQ_API_URL=custom_api_url
 ```
 
